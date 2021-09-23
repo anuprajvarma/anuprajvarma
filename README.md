@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Anupraj</h1>
-<h3 align="center">I am a Flutter App developer,Competitive Programmer</h3>
+Hey 👋, I'm Anupraj</h1>
+I am a Flutter App developer,Competitive Programmer</h3>
 
 
 
