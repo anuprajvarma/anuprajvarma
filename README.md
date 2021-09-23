@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anupraj</h1>
 <h3 align="center">I am a Flutter App developer,Competitive Programmer</h3>
 
-- 📫 How to reach me **anupraj1854@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,8 +9,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuprajvarma&show_icons=true&locale=en&layout=compact" alt="anuprajvarma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&locale=en" alt="anuprajvarma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuprajvarma&" alt="anuprajvarma" /></p>
 
 
 
