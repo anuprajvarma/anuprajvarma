@@ -1,3 +1,5 @@
+![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
+
 Hey 👋, I'm Anupraj
 
 I am a Flutter App developer,Competitive Programmer
