@@ -1,12 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anupraj</h1>
 <h3 align="center">I am a Flutter App developer,Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuprajvarma&label=Profile%20views&color=0e75b6&style=flat" alt="anuprajvarma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuprajvarma" alt="anuprajvarma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **anupraj1854@gmail.com**
 
 
