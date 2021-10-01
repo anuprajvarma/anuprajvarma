@@ -13,6 +13,4 @@ I am a Flutter App developer,Competitive Programmer
 
 
 
-[![anupraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuprajvarma&theme=dracula)](https://github.com/anuprajvarma/github-readme-activity-graph)
-
 
