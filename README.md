@@ -1,23 +1,22 @@
 ![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
 
-Hey 👋, I'm Anupraj
+## Hey 👋, I'm Anupraj
 
-I am a Flutter App developer,Competitive Programmer
-
-
-```text
-Dart   8 hrs 23 mins   █████████████████████▒░░░   85.39 %
-C++   1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-```
-
-<!--END_SECTION:waka-->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&locale=en" alt="anuprajvarma" /></p>
+I am a Flutter App developer and Competitive Programmer
 
 
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![Dart](https://img.shields.io/static/v1?logo=Dart&label=&message=Dart&color=111&logoColor=FF0000&style=flat-square)
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
+![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=111&logoColor=FF0000&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=FF0000&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;![mongoDB](https://img.shields.io/static/v1?logo=mongoDB&label=&message=mongoDB&color=111&logoColor=FF0000&style=flat-square)
+
+
+![Anuprajvarma GitHub stats](https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&theme=city_lights)
 
 
