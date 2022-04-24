@@ -18,5 +18,9 @@ I am a Flutter App developer and Competitive Programmer
 
 
 ![Anuprajvarma GitHub stats](https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&theme=city_lights)
+<p align="center">
+  <img src="https://github.com/anuprajvarma/anupraj/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 
 
