@@ -1,24 +1,116 @@
-![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 ![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
 
 ## Hey 👋, I'm Anupraj
-
 I am a Flutter App developer and Competitive Programmer
-
-
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![Dart](https://img.shields.io/static/v1?logo=Dart&label=&message=Dart&color=111&logoColor=FF0000&style=flat-square)
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
-![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=111&logoColor=FF0000&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=FF0000&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;![mongoDB](https://img.shields.io/static/v1?logo=mongoDB&label=&message=mongoDB&color=111&logoColor=FF0000&style=flat-square)
-
-
+<br>
+<br>
 ![Anuprajvarma GitHub stats](https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&theme=city_lights)
 
+<details>
+<summary>
+  Please Don't Click
+</summary>
+<details>
+<summary>
+  Refrain from clicking
+</summary>
+<details>
+<summary>
+  Stop haha
+</summary>
+<details>
+<summary>
+  oops haha no more :)
+</summary>
+<details>
+<summary>
+  Oh all right you can have this one
+</summary>
+<details>
+<summary>
+  Alright now stop
+</summary>  
+<details>
+<summary>
+  Still going?
+  </summary>
+<details>
+<summary>
+  Might take a while
+</summary>
+<details>
+<summary>
+  It's gonna be good tho
+</summary>
+<details>
+<summary>
+  You can do it
+  </summary>
+<details>
+<summary>
+  I Believe 
+</summary>
+<details>
+<summary>
+  Let's count to 10
+</summary>
+<details>
+<summary>
+  1
+</summary>
+<details>
+<summary>
+  2̡
+  </summary>
+<details>
+<summary>
+  3̊ͫ͡
+  </summary>
+<details>
+<summary>
+  4̙̦̼̙̽͋
+</summary>
+<details>
+<summary>
+  1̪̳̜̘̏̽́ͤ̈1̶̵͙̤̙̣̙̟͉̹̓͗͋͞
+</summary>
+<details>
+<summary>
+  1̧̨͚̟ͨͫ͐̓̑́̈́́̚1̖̯̪͍͙͓͙̝ͩ̀ͯ̎̀̒͞1̨̙͖̐̇
+</summary>
+<details>
+<summary>
+  1̋ͧ͌̋̉̇ͬ̈̄̚̚͏̛̰̰̝͚̘͔͖̗̝̼̩̼2̭͖̳̝͉̺̭̼͈̩̻͂̊́ͫͯ̌͋̈̎̎͊̀ͥ̒͑͋ͨͫ̈́͘͞͡
+  </summary>
+<details>
+<summary>
+  C̶̞̺̱̜̘̲̪̾̔̑̽̃ͤ͗̊̕o̢͕̺͍̳͉̪̘̝̮̖̲̠̣̮͕̣̱͐ͭͧ̑̎̄ͧ̅̊̍̑ͫͬ̌̅͒̓͟͜n̓͊ͯ̃ͬ́͋́̔̍̐ͯ҉̺̗͓̭̪̰̰̻͖͔̰͖̤ͅtͤ̃̅̒ͫͧ̏͛ͫ̿̎̌̍҉̢͏͖̼̗̹͈i̴͈̙̯͓͕̩̱̠͔̦͌ͬ̄̅͋̿́̕͜͢ņ͉͚̗̫̪̟̱̯̤̖͚͕̬͍̩͓̤̱̍ͣͤ̽̉͂̿͠uͧ̍̀́ͯ̔̐͠͏̮͖͇̻͚͓̼̺͚̲̠̘͍̪̲͇̻̳̼͘eͮ̍͑̅̓̄̓̈́ͬ̐̓ͯ̔̆̅̆́̚̕͞͏͎̣̲͚̼̖̳͔̻̻̫̜̹̩̠̗̻ͅͅ ̡̤̹͚̮̻͕̺͕͔͒ͨ̍̾̒ͦ͑̾̎ͦ͛̊̒ͪ̿͒͜͢͝a̴̯̜̰̟̰̬̳͇̺ͮͨ̿̌̀ͪ̂̀̐̽ͧ̉̉̀͢ͅͅn̴̴̥̼͉͓̞͈͍͇̗̟͍͋̐͋̊̾ͪ͑͡͞d̼͚͎̱͚̲̔ͨ̒ͦͮͦ͒͐̑̔̌̃̂̔͒͌͒͘ ͉͖͎̞͈̹̼̜̹̤͓̰͚ͭͮͫͤ̀̕͞â̶̢̛͉̤͇͔̗ͨ̎̓͛ͥͮ̓ͫ̐ͩͥ̾͐̊̍̓̈́ͦ̀ç̢̝̹̯͈͈͉̣̥͈̫͇͇͌ͣ̓ͥͩ͒͂ͮ͒̍̋͐͆̎̓̈̒͟͝h̖͍̣̘̜̠̞̰͙̜͈̗̞̮̭̳͓̻͂̊̂̓̉̍̋͗̋͐̈́͑ͪ͛͜͞i̧̮̖̣̣͔̬͙͔̹̬̤̺͆̾̃͌͑ͯ͊͂ͥ̚͟͜ȩ̩̣̺̰̩̩̻̘̙͉͉̟͓̥̮̉̆ͦ̆̊ͪ̒͂͒̋̎̕͝ͅv̴̧̞̞̻̟̺̟͙̺̞͇̭͔̜̉̇̇͆͛ͭ̃ͦ͘ë̡̿̊͆͐ͫ͐ͮ̔̈̋ͣͧͨ̍̐͏͠҉̩̤̝̻̲̣̝̞̬̼́ͅ ̒̇͂̑ͯ͆ͥ̓͗͛̍̓̑ͬ̈́̊̚͏̸̹̮͇͎̹̘̮̘̺͜y̩̲̝͈͕̦̪̬͍̲̺̞͕͋̊̅̂͑͂͊͞͝o̸̍͊̔͌͒̾ͬ̊͟͏͕̮͍̻̤͎͎̫͔̦̘͓̜̣͕͉̟̕u̡͒̈͂ͯ͒͢͏͙̰̠̝͕͔͓̼̙̱͕͓̳̪͈͉̠̠̞r̴̀̾ͪ̑̄̊́͊̉̈́ͮͨ̕҉͏̺͔̘̦̬̫͔̬̦̱̬ ̂̊̄̀ͨ͊ͨ͗ͤ́ͮͮ̑̄͐ͦ͏̧̰̘͈̯̦͉͖̣̤̭͔͎̩̮̮̠̻̝͠d̴̡̜̜̫̞̜̱̭̠̖̗̳̰͚̯̥͚̍͆̿ͪ̄ͥ̉̿͆͋̽̏̿ͤ̐̚͘͜͟ͅę̛͖̮͍̻͖͋̍̈̑ͧͥ̃̒̂̍ͦ̌s͗̍̔̍͑ͦ́̕͏̤̠̜̘̠͎̰̩̭t̶̝̫͎͓̫͚̖͖̱̗̥̥̜̭̗͓̱̝̏̿̍̾͟i̫̫̹̩̹̜̟̥̭͇͈̲͐ͬͦͤ̿̃̍ͧ͋̐ͯ́̄̉́̚͘͠n̶̢͍͔̬̣ͬ̄̾͛̈̂̅ͨͯ̆̌͠y̶͖͖͇̬̻̥͈͇̻̯͎ͪ̒ͥ̐ͣͣ̊̌̀͟͠͞ͅ
+</summary>
+<details>
+<summary>
+  10
+  </summary>
+<details>
+<summary>
+  Haha good job 😃🙌
+</summary>
+<details>
+<summary>
+  Almost there
+  </summary>
+<details>
+<summary>
+  Hope you're excited
+</summary>
+<details>
+<summary>
+  Get ready
+</summary>
+<details>
+<summary>
+  No click
+</summary>
+🤪
+</details>
 
 
