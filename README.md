@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 ![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
 
 ## Hey 👋, I'm Anupraj
