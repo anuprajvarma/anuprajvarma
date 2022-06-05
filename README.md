@@ -1,7 +1,7 @@
 ![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
 
 ## Hey 👋, I'm Anupraj
-I am a Flutter developer 
+I am a Flutter/MERN Developer 
 <br>
 <br>
 ![Anuprajvarma GitHub stats](https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&theme=city_lights)
