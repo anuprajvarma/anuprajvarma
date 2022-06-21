@@ -1,10 +1,16 @@
-![anime image](https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif)
+<p align="center">
+  <img src="http://i.imgur.com/kSobSHU.gif">
+<p/>
 
-## Hey 👋, I'm Anupraj
-I am a Flutter/MERN Developer 
-<br>
-<br>
-![Anuprajvarma GitHub stats](https://github-readme-stats.vercel.app/api?username=anuprajvarma&show_icons=true&theme=city_lights)
+```
+I'm a Front End Developer based in India.
+
+My name is Anupraj Varma, a 20-Year-old self-taught Front End Developer, in February 2020, I decided, It was time to 
+change myself, so I started to learn C++ language and I quickly built a Lyrical App in Flutter. I am currentaly 
+learn Node.js, Mongo.DB.I always want to learn more and do more. I'm also a firm believer that we should never 
+settle. I'm hard working,super curious, passionate, not committed and a fast learner!
+
+```
 
 <details>
 <summary>
