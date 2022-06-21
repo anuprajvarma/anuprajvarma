@@ -5,10 +5,11 @@
 ```
 I'm a Front End Developer based in India.
 
-My name is Anupraj Varma, a 20-Year-old self-taught Front End Developer, in February 2020, I decided, It was time 
-to change myself, so I started to learn C++ language and I quickly built a Lyrical App in Flutter. I am currentaly 
-learn Node.js, Mongo.DB.I always want to learn more and do more. I'm also a firm believer that we should never 
-settle. I'm hard working,super curious, passionate, not committed and a fast learner!
+My name is Anupraj Varma, a 20-Year-old self-taught Front End Developer, in February 2020, I decided, 
+It was time to change myself, so I started to learn C++ language and I quickly built a Lyrical App in 
+Flutter. I am currentaly learn Node.js, Mongo.DB.I always want to learn more and do more. I'm also a 
+firm believer that we should never settle. I'm hard working,super curious, passionate, not committed 
+and a fast learner!
 
 ```
 
