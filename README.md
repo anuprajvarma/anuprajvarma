@@ -11,8 +11,7 @@ Flutter. I am currentaly learn Node.js, Mongo.DB.I always want to learn more and
 firm believer that we should never settle. I'm hard working,super curious, passionate, not committed 
 and a fast learner!
 
-```
-
+```        
 <details>
 <summary>
   Please Don't Click
