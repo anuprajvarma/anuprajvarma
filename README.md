@@ -13,15 +13,19 @@ and a fast learner!
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&cover_image=true&theme=novatorem&bar_color=007500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&cover_image=true&theme=novatorem&bar_color=007500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&redirect=true)<br>
+
+## 🕹️ Connect with me
+<br>
+<a href="https://twitter.com/Anupraj_varma"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/anupraj-varma-a04489208/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/anupraj_verma/"><img align="left" alt="Instagaram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
 
 ## If you're still here, here's my favorite gif/music video:
 
-<a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
+<a href="https://www.youtube.com/watch?v=b-Cr0EWwaTk">
   <img alt="Bla Bla Bla by Gigi D'Agostino" src="https://raw.githubusercontent.com/bloedboemmel/bloedboemmel/main/img/BlaBlaBla.gif" height="150px"/>
-</a>
-<br>
-
+</a><br><br>
 
 <details>
 <summary>
