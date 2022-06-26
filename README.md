@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="realax_GIF" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="realax_GIF" width="168" />
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="realax_GIF" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" />
 
 ```
 I'm a Front End Developer based in India.
@@ -10,7 +10,19 @@ firm believer that we should never settle. I'm hard working,super curious, passi
 and a fast learner!
 
 ```  
+
+### Now Playing 🎧
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&cover_image=true&theme=novatorem&bar_color=007500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&redirect=true)
+
+## If you're still here, here's my favorite gif/music video:
+
+<a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
+  <img alt="Bla Bla Bla by Gigi D'Agostino" src="https://raw.githubusercontent.com/bloedboemmel/bloedboemmel/main/img/BlaBlaBla.gif" height="150px"/>
+</a>
+<br>
+
+
 <details>
 <summary>
   Please Don't Click
