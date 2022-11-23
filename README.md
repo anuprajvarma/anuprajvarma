@@ -1,16 +1,5 @@
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="realax_GIF" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" />
 
-```
-I'm a Front End Developer based in India.
-
-My name is Anupraj Varma, a 20-Year-old self-taught Front End Developer, in February 2020, I decided, 
-It was time to change myself, so I started to learn C++ language and I quickly built a Lyrical App in 
-Flutter. I am currentaly learn Node.js, Mongo.DB.I always want to learn more and do more. I'm also a 
-firm believer that we should never settle. I'm hard working,super curious, passionate, not committed 
-and a fast learner!
-
-```  
-
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&cover_image=true&theme=novatorem&bar_color=007500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&redirect=true)<br>
