@@ -1,20 +1,18 @@
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="realax_GIF" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="168" />
-
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&cover_image=true&theme=novatorem&bar_color=007500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99t0p2s6k52t2dcd2zkkhxugd&redirect=true)<br>
-
-## 🕹️ Connect with me
-<br>
+## Hi there 👋
+```
+You can call me Anupraj
+I am Pre-Final Year student of information technology.As you can guess.
+I am a Frontend Developer with experience in React,HTML,CSS,Javascript,Node,Express,MongoDB.
+```
+### Interesting Projects
+ - [Sync code](https://github.com/anuprajvarma/Sync_Code)  
+   - It's a code editor where multiple users can code synchronously and they can enter in room by roomID.
+ - [MovieHub](https://github.com/anuprajvarma/moviehub)  
+   - It is web application where people can search any movie and they can see movies details such as Director name,Genre.
+### 🕹️ Connect with me
 <a href="https://twitter.com/Anupraj_varma"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/anupraj-varma-a04489208/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/anupraj_verma/"><img align="left" alt="Instagaram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
-
-## If you're still here, here's my favorite gif/music video:
-
-<a href="https://www.youtube.com/watch?v=b-Cr0EWwaTk">
-  <img alt="Bla Bla Bla by Gigi D'Agostino" src="https://raw.githubusercontent.com/bloedboemmel/bloedboemmel/main/img/BlaBlaBla.gif" height="150px"/>
-</a><br><br>
+<a href="https://www.instagram.com/anupraj_verma/"><img align="left" alt="Instagaram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br>
 
 <details>
 <summary>
