@@ -1,4 +1,4 @@
-<img align="GIF" alt="Cover Photo" width="1000px" height="300px" src="https://media.tenor.com/VFE9IeffZVsAAAAd/office-coffee.gif"></img>
+<img align="GIF" alt="Cover Photo" width="1000px" height="250px" src="https://media.tenor.com/VFE9IeffZVsAAAAd/office-coffee.gif"></img>
 ## Hi there 👋
 You can call me Anupraj.I am Pre-Final Year student of information technology.As you can guess.I am a Frontend Developer with experience in React,HTML,CSS,Javascript,Node,Express,MongoDB.I like the entire process of create any website and solving challenges and this thing makes me a better developer.
 ### Projects
