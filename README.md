@@ -1,9 +1,5 @@
 ## Hi there 👋
-```
-You can call me Anupraj
-I am Pre-Final Year student of information technology.As you can guess.
-I am a Frontend Developer with experience in React,HTML,CSS,Javascript,Node,Express,MongoDB.
-```
+You can call me Anupraj.I am Pre-Final Year student of information technology.As you can guess.I am a Frontend Developer with experience in React,HTML,CSS,Javascript,Node,Express,MongoDB.I like the entire process of create any website and solving challenges and this thing makes me a better developer.
 ### Projects
  - [Sync code](https://github.com/anuprajvarma/Sync_Code)  
    - It's a code editor where multiple users can code synchronously and they can enter in room by roomID.
