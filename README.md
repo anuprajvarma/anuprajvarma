@@ -5,9 +5,9 @@ You can call me Anupraj. I am a Pre-Final Year student of information technology
  - [Sync code](https://github.com/anuprajvarma/Sync_Code)  
    - It's a code editor where multiple users can code synchronously and they can enter a room by roomID.
  - [MovieHub](https://github.com/anuprajvarma/moviehub)  
-   - This application offers fun, engaging music and learning courses for children, including webinars for improvement and doubt resolution.
- - [Tech Tune]([https://github.com/anuprajvarma/moviehub](https://tech-tune.netlify.app/))  
    - It is a web application where people can search for any movie and see movie details such as the Director's name and genre.
+ - [Tech Tune](https://tech-tune.netlify.app/)
+   - This application offers fun, engaging music and learning courses for children, including webinars for improvement and doubt resolution.
 ### 🤝 Connect with me
 <a href="https://twitter.com/Anupraj_varma"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/anupraj-varma-a04489208/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
