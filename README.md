@@ -1,6 +1,6 @@
 <img align="GIF" alt="Cover Photo" width="1000px" height="200px" src="https://media.tenor.com/VFE9IeffZVsAAAAd/office-coffee.gif"></img>
 ## Hi there 👋
-You can call me Anupraj. I am a Pre-Final Year student of information technology. As you can guess. I am a front-end developer with experience in ReactJS, TailwindCSS, TypeScript, ExpressJS, and MongoDB.I like the entire process of creating any website and solving challenges, which makes me a better developer.
+You can call me Anupraj. I am a Pre-Final Year student of information technology as you can guess. I am a front-end developer with experience in ReactJS, TailwindCSS, TypeScript, ExpressJS, and MongoDB.I like the entire process of creating any website and solving challenges, which makes me a better developer.
 ### Projects
  - [Sync code](https://github.com/anuprajvarma/Sync_Code)  
    - It's a code editor where multiple users can code synchronously and they can enter a room by roomID.
