@@ -2,8 +2,6 @@
  Full-Stack Developer | Kubernetes | Docker | AWS
 </h1>
 
-I am Anupraj a computer science engineer and have experience in working in startup as Software Developer. Interested in making life easier by creating utility tools. Fascinated about space.
-
 ### Featured Projects
  - [Cape](https://github.com/anuprajvarma/cape)  
    - Distraction-free YouTube learning with streaks, notes, and AI help.
