@@ -12,7 +12,7 @@
  - Frontend: ``React.js`` ``Next.js`` ``Tailwind CSS`` ``Redux`` ``React Query``
  - Backend: ``Node.js`` ``Express.js`` ``RESTful APIs`` ``WebSockets``
  - Database: ``MongoDB (Mongoose)`` ``PostgreSQL`` ``Prisma ORM``
- - DevOps & Deployment: ``Docker`` ``Vercel / Netlify / Render`` ``GitHub Actions``
+ - DevOps & Deployment: ``Docker`` ``Kubernetes`` ``AWS`` ``Vercel / Netlify / Render`` ``GitHub Actions``
 ### Let's Get in Touch ✨
 <a href="https://www.linkedin.com/in/anuprajvarma/">LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:private.anupraj1854@gmail.com">Email</a>
 
