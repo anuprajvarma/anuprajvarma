@@ -15,8 +15,3 @@
  - DevOps & Deployment: ``Docker`` ``Kubernetes`` ``AWS`` ``Vercel / Netlify / Render`` ``GitHub Actions``
 ### Let's Get in Touch ✨
 <a href="https://www.linkedin.com/in/anuprajvarma/">LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:private.anupraj1854@gmail.com">Email</a>
-
-</pre>
-  <!-- Profile Views Stats -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=anuprajvarma" alt="rosek" />
-</p>
