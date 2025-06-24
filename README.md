@@ -7,6 +7,9 @@
    - Distraction-free YouTube learning with streaks, notes, and AI help.
  - [Stich-Chrome-Extension](https://github.com/anuprajvarma/stich-chrome-extension)  
    - Stop switching tabs to chat with AI; use AI on any site instantly.
+### Experience
+- [**Software Developer** @ Kroto (AI-based EdTech Platform)  ](https://instantdocs.com/)
+  <div>Acquired by Groove</div>
 ### Tech Stack
  - Languages: ``Javascript`` ``Typescript`` ``C++``
  - Frontend: ``React.js`` ``Next.js`` ``Tailwind CSS`` ``Redux`` ``React Query``
