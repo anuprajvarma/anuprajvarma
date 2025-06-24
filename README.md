@@ -1,5 +1,5 @@
 <h1 color='red' align="center">
- Full-Stack Developer | Kubernetes | Docker | AWS
+ Full-Stack Developer | Docker | Kubernetes | AWS
 </h1>
 
 ### Featured Projects
