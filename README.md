@@ -14,10 +14,11 @@
    
 ### Tech Stack
  - Languages: ``Javascript`` ``Typescript`` ``C++``
- - Frontend: ``React.js`` ``Next.js`` ``Tailwind CSS`` ``Redux`` ``React Query``
- - Backend: ``Node.js`` ``Express.js`` ``RESTful APIs`` ``WebSockets``
- - Database: ``MongoDB (Mongoose)`` ``PostgreSQL`` ``Prisma ORM``
- - DevOps & Deployment: ``Docker`` ``Kubernetes`` ``AWS`` ``Vercel / Netlify / Render`` ``GitHub Actions``
+ - Frontend: ``React.js`` ``Next.js`` ``Tailwind CSS`` ``Redux``
+ - Backend: ``Node.js`` ``Express.js`` ``tRPC`` ``Prisma`` ``RESTful APIs`` ``WebSockets``
+ - Database: ``MongoDB (Mongoose)`` ``PostgreSQL`` ``Redis`` ``Firebase Firestore``
+ - DevOps: ``Docker`` ``Kubernetes`` ``CI/CD`` ``GitHub Actions``
+ - Developer Tools: ``VS Code`` ``Git`` ``GitHub`` ``Postman`` ``Figma`` ``Mixpanel`` ``Google`` ``Analytics``
    
 ### Let's Get in Touch ✨
 <a href="https://www.linkedin.com/in/anuprajvarma/">LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:private.anupraj1854@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1dkQ6KwwqsRpqzzipsohuEpRxRi-jjwbX/view?usp=sharing">Resume</a>
