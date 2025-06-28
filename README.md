@@ -21,4 +21,4 @@
  - Developer Tools: ``VS Code`` ``Git`` ``GitHub`` ``Postman`` ``Figma`` ``Mixpanel`` ``Google`` ``Analytics``
    
 ### Let's Get in Touch ✨
-<a href="https://www.linkedin.com/in/anuprajvarma/">LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:private.anupraj1854@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1dkQ6KwwqsRpqzzipsohuEpRxRi-jjwbX/view?usp=sharing">Resume</a>
+<a href="https://www.linkedin.com/in/anuprajvarma/">LinkedIn</a>&nbsp;&nbsp;&nbsp;<a href="mailto:private.anupraj1854@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;<a href="https://personal-folio-tau.vercel.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1dkQ6KwwqsRpqzzipsohuEpRxRi-jjwbX/view?usp=sharing">Resume</a>
