@@ -17,7 +17,6 @@
  - Frontend: ``React.js`` ``Next.js`` ``Tailwind CSS`` ``Redux``
  - Backend: ``Node.js`` ``Express.js`` ``RESTful APIs`` ``WebSockets``
  - Database: ``MongoDB (Mongoose)`` ``Redis`` ``Firebase Firestore``
- - DevOps: ``Docker`` ``Kubernetes`` ``CI/CD`` ``GitHub Actions``
  - Developer Tools: ``Postman`` ``Figma`` ``Mixpanel`` ``Google Analytics``
    
 ### Let's Get in Touch ✨
