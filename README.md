@@ -1,4 +1,3 @@
-# Anupraj Varma
 
 I write code that sometimes works and occasionally helps humans. Now trying to build things so cool they might be slightly addictive (in a productive way 😅).
 
